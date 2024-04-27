@@ -1,0 +1,18 @@
+newmtl Miniature_Campfire_Mat
+Ni 1.6
+Ka 0 0 0
+map_Ke Miniature_Campfire/Miniature_Campfire_Mat_glow_1001.png
+d 1
+Kd 0 0 0
+adobe_map_normal Miniature_Campfire/Miniature_Campfire_Mat_normal_1001.png
+map_d Miniature_Campfire/Miniature_Campfire_Mat_opacity_1001.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness Miniature_Campfire/Miniature_Campfire_Mat_roughness_1001.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+map_Pm Miniature_Campfire/Miniature_Campfire_Mat_metallic_1001.png
+Ns 16
+map_Kd Miniature_Campfire/Miniature_Campfire_Mat_baseColor_1001.png

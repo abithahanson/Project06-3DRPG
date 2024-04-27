@@ -1,0 +1,17 @@
+newmtl stationary_papers_1544_MatSG_Mat
+Ni 1.6
+Ka 0 0 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal stationary_papers_1544/stationary_papers_1544_Mat_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness stationary_papers_1544/stationary_papers_1544_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 1.0
+map_Pm stationary_papers_1544/stationary_papers_1544_Mat_metallic.png
+Ns 16
+map_Kd stationary_papers_1544/stationary_papers_1544_Mat_baseColor.png
